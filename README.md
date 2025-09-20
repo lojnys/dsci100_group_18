@@ -1,4 +1,4 @@
-# Classification of User Knowledge Project (DSCI 10
+# Classification of User Knowledge Project (DSCI 100)
 
 ## Authors
 - Kyrstin Lavelle
