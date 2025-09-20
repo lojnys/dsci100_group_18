@@ -23,4 +23,12 @@
 |PEG|The exam performance of user for goal objects|Continuous|
 |UNS|The knowledge level of user|Categorical|
 
+## Modeling & Evaluation
 
+Only one classification model was trained and evaluated in the scope of DSCI 100. 
+
+|Model|Accuracy|
+|---|---|
+|KNN Classification|0.3379|
+
+With hyperparameter tuning with cross-validation, we were able to get an accuracy of 0.3379. For deeper discussion, take a look at *group_report.ipynb* under *Discussion*.
